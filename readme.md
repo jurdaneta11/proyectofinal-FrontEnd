@@ -1,1 +1,2 @@
 Descripción:
+Esta pagina web es util para los que quieran conocer y adquirir nuevas innovaciones para accesorios para celulares y tecnologia, donde podras ver y comprar accesorios para tu dispositivo celular o notebook. Con el fin de brindarle al usuario una buena calidad y servicio del producto.
