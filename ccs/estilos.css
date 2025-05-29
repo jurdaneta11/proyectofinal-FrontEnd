@@ -1,4 +1,4 @@
-@media (max-width: 800px) {
+@media (max-width: 770px) {
     
 }
 
@@ -13,6 +13,7 @@ body {
     font-family: "Poppins", sans-serif;
     background-color:  rgba(31, 195, 236, 0.829);
 }
+
 
 video {
     width: 75%;
@@ -60,6 +61,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    
 }
 
 header img {
@@ -86,7 +88,7 @@ header a {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 2em;
+    gap: 2rem;
 }
 
 .producto {
@@ -109,6 +111,6 @@ header a {
 .producto img {
     border-radius: 25px 25px 0 0;
     height: 18rem;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
