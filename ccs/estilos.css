@@ -38,6 +38,7 @@ img {
 }
 
 button {margin-left:1rem;
+    font-weight: bold;
 
 }
 
@@ -46,15 +47,26 @@ label {
     margin-left: 2rem;
 }
 
-h2, h3 {
-    padding: 1.5rem;
-    margin: 1rem;
-    font-size: 3rem;
-    font-family:  "Roboto", sans-serif;
-    color:  #081320;
+h4 {
+    font-family:"Verdana", Tahoma, sans-serif;
+    font-weight: bold;
 }
 
+h2{
 
+    padding: 1.5rem;
+    margin: 1rem;
+    font-size: 4rem;
+    font-family:'Times New Roman', serif;
+    color: #000000;
+}
+
+p1 {
+    font-size: 16px;
+    margin-right: 10px;
+    color: #000000;
+    font-weight: bold;
+}
 
 header {
     background-color: #081320;
@@ -84,19 +96,23 @@ header a {
 
 /* Productos */
 .productos {
+    align-items: center;
     margin-top: 2rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 2rem;
+    
 }
 
 .producto {
     background-color: #e0e0e0b7;
-    width: 20rem;
-    height: 40rem;
+    width: 320px;
+    height: 380px;
     border: 3px solid rgba(0, 0, 0, 0.185);
-    border-radius: 30px;
+    border-radius: 25px;
+    align-items: center;
+    
   
 }
 
@@ -105,6 +121,7 @@ header a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 15px
     ;
 }
 
